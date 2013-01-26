@@ -1,0 +1,25 @@
+BEGIN:VRECIPECARD
+VERSION:1.0
+NAME:Gratin de pâtes version Cyril Lignac
+
+CATEGORY:(null)
+CUISINE:(null)
+DESCRIPTION:<<start>>Agréablement surprise par ce gratin, qui ne se révèle pas du tout écoeurant...<<end>>
+YIELD:4 servings
+COOKTIME:(null)
+KITCHEN: Cyril Lignac
+ING:1:700;gr;(null);de pâtes courtes cuites;700 gr de pâtes courtes cuites (crozets, macaronis...)
+ING:2:150;gr;(null);de fromages fraîchement râpés;150 gr de fromages fraîchement râpés (comté et emmental ou autre)
+ING:4:40;gr;(null);de beurre;40 gr de beurre
+ING:8:1;(null);(null);sel et poivre;sel et poivre
+ING:5:20;cl;(null);de crème liquide;20 cl de crème liquide
+ING:6:60;cl;(null);de lait;60 cl de lait
+ING:3:50;gr;(null);de farine;50 gr de farine
+ING:7:1;(null);(null);un peu de muscade moulue;un peu de muscade moulue
+DIR:5:Servez bien chaud, en accompagnement ou en plat principal.
+DIR:4:Huilez légèrement un plat à gratin, versez les pâtes, parsemez du reste de fromage et enfournez pour 20 minutes, en faisant gratiner.
+DIR:1:Faites cuire vos pâtes dans un grand volume d'esu salée. Egouttez et réservez dans la casserole fermée.
+DIR:2:Préchauffez le four à 200°.
+DIR:3:Râpez les fromages. Faites fondre le beurre dans une grande casserole, ajoutez la farine d'un coup, remuez vivement puis versez le lait tout en remuant à la cuillère en bois. Faites épaissir sur feu moyen, salez et poivrez, assaisonnez de muscade. Versez sur les pâtes encore chaudes, avec la moitié des fromages râpés. Remuez délicatement. Ajoutez la crème en 3-4 fois.
+NOTE:1:
+END:VRECIPECARD
