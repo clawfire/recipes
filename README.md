@@ -6,6 +6,14 @@ So let's start making some easy, (hope to be) healthy and delicious cooking.
 
 The original recipes are in **french** but you are so welcome to make translation.
 
+## Format
+
+When I start with this idea I fugure myself sharing PDF files. But where's the community, where's the community spirit with a close file format like PDF ? It's too static. So I consider rtf or txt files too but I miss the inter-operatibility.
+
+So what ?
+
+**V-RECIPE-CARD !** It's a normalise format, mimic the VCARD format and it's built in my recipe software. I didn't found any RFC online or scheme but I hope the editor soon answer me in this topic.
+
 ## FAQ
 
 **1. I don't speak french ! help me**
